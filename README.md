@@ -6,4 +6,17 @@ Notebook python created at SoulCode bootcamp with the purpose of consulting and 
 
 Notebook python criado no bootcamp SoulCode com o objetivo de consultar e estudar os conceitos de python. Idioma: Português (BR)
 
+## Conteúdo
+
+- VARIÁVEIS
+- OPERADORES
+- PYTHON BÁSICO - Strings
+- CONDICIONAIS
+- ESTRUTURA DE DADOS EM PYTHON
+- ESTRUTURAS DE REPETÇÃO (LOOPINGS)
+- TRATAMENTO DE ERROS
+- KEYWORDS (PALAVRAS CHAVE)
+- FUNÇÕES
+- EXERCÍCIOS
+
 
